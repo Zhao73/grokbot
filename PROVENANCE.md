@@ -24,9 +24,11 @@ frontend source or source maps. The readable `frontend/` tree is therefore a
 partial evidence-backed reconstruction, while packaged builds retain the pinned
 renderer and apply only a narrow, hash-recorded settings transform.
 
-No upstream source-code license is implied. Do not present reconstructed
-material as original source or an official build, and complete an independent
-rights review before public redistribution.
+Source code and original modifications in this repository are available under
+`UPSTREAM_SOURCE_LICENSE.md` to the extent the repository owner holds the rights
+necessary to license them. This licensing statement does not transfer ownership
+of third-party trademarks, original installers, proprietary third-party assets,
+or other materials whose rights belong to their respective owners.
 
 ## Evidence-only reconstruction rule
 
